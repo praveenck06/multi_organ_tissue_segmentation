@@ -1,0 +1,11 @@
+monai
+ipykernel
+prettytable
+kaggle
+tifffile
+albumentations
+scikit-image
+matplotlib
+pandas
+torchvision
+tensorboard
